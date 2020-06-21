@@ -1,0 +1,11 @@
+<mapper namespace="com.learn.dao.IUserDao">
+    <!--sql的唯一标识由namespace和id组成 statementId-->
+    <select id="findAll" resultType="com.learn.pojo.User">
+        select * from user
+    </select>
+
+    <!-- 多参数传递 使用面向对象  以对象传递-->
+    <select id="findByCondition" resultType="com.learn.pojo.User" paramterType="com.learn.pojo.User">
+        select * from user where id = #{id} and username = #{username}
+    </select>
+</mapper>

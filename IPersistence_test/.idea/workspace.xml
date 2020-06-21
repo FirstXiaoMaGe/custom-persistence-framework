@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a480e58-8f75-4f4b-8f1e-0ff6c8b79fb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\sofot\ide\maven\MavenRepo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../ide/maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\sofot\ide\maven\apache-maven-3.6.2\conf\settingsAliyun.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dWMXYSF9zvsILNA1SY4emxLMYZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IPersistence" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sofot\developSoftware\workspace\learn\IPersistence" />
+      <recent name="D:\sofot\developSoftware\workspace\learn\IPersistence_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IPersistenceTest.test">
+    <configuration name="IPersistenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.test.IPersistenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+        <item itemvalue="JUnit.IPersistenceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a480e58-8f75-4f4b-8f1e-0ff6c8b79fb3" name="Default Changelist" comment="" />
+      <created>1592536435136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592536435136</updated>
+      <workItem from="1592536439460" duration="2724000" />
+      <workItem from="1592557648984" duration="2809000" />
+      <workItem from="1592664256826" duration="9154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1196" y="53" key="#Auto_Import" timestamp="1592558954451">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1196" y="53" key="#Auto_Import/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592558954451" />
+    <state x="458" y="182" key="#Inspections" timestamp="1592664582010">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-1334" y="197" key="#Inspections/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592541113547" />
+    <state x="458" y="182" key="#Inspections/0.0.1500.960@0.0.1500.960" timestamp="1592664582010" />
+    <state x="-1155" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1592559033432">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592559033432" />
+    <state x="577" y="252" key="FileChooserDialogImpl" timestamp="1592673831158">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-1181" y="273" key="FileChooserDialogImpl/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592557662591" />
+    <state x="577" y="252" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1592673831158" />
+    <state x="564" y="399" key="Github.CreateGistDialog" timestamp="1592674107390">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="564" y="399" key="Github.CreateGistDialog/0.0.1500.960@0.0.1500.960" timestamp="1592674107390" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1592561269324">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592561269324" />
+    <state x="469" y="205" key="NewModule_or_Project.wizard" timestamp="1592673833508">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-1320" y="222" key="NewModule_or_Project.wizard/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592557665110" />
+    <state x="469" y="205" key="NewModule_or_Project.wizard/0.0.1500.960@0.0.1500.960" timestamp="1592673833508" />
+    <state x="344" y="86" key="SettingsEditor" timestamp="1592673836998">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="-1480" y="93" key="SettingsEditor/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592557666783" />
+    <state x="344" y="86" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1592673836998" />
+    <state x="548" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592674330389">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="548" y="393" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1592674330389" />
+    <state x="-1586" y="179" key="new project wizard" timestamp="1592540588770">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1586" y="179" key="new project wizard/0.0.1500.960/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592540588770" />
+  </component>
+</project>
